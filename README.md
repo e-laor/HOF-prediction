@@ -9,6 +9,6 @@ To do so we did the following:
 * EDA - visualizing the data
 * Machine Learning (using sickit module)
 
-
+<br>
 
 Link to the video presentation: https://www.youtube.com/watch?v=MwkEzsMiSNM
